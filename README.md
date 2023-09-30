@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomas-Code
 - 👀 I’m interested in learning to code and coding development as a hobby!(for the moment)
-- 🌱 I’m currently learning js, godot, phython...
+- 🌱 I’m currently learning js, godot, python...
 - 💞️ I’m looking to collaborate on anything basic. Anything that is simple and enjoyable!
 - 📫 How to reach me (Non available for the moment D: I will add something in the future when I feel comfortable in doing so)
 
